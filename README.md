@@ -80,12 +80,12 @@ File Structure:
 ---
 ## Sources
 
-GPU Model Number Schemas per Company: https://techteamgb.co.uk/2019/10/25/gpu-names-explained-rtx-gtx-rx/
-Background on recent GPU Market: https://www.digitaltrends.com/computing/catastrophic-gpu-shortage-a-chronological-history/
-Information about Intel Arc Series: https://en.wikipedia.org/wiki/Intel_Arc
-GPU History: https://medium.com/neuralmagic/a-brief-history-of-gpus-27122d8fd45
+GPU Model Number Schemas per Company: https://techteamgb.co.uk/2019/10/25/gpu-names-explained-rtx-gtx-rx/<br>
+Background on recent GPU Market: https://www.digitaltrends.com/computing/catastrophic-gpu-shortage-a-chronological-history/<br>
+Information about Intel Arc Series: https://en.wikipedia.org/wiki/Intel_Arc<br>
+GPU History: https://medium.com/neuralmagic/a-brief-history-of-gpus-27122d8fd45<br>
 
 ---
 
-## Powerpoint
+## Powerpoint<br>
 https://docs.google.com/presentation/d/1PC_G_Qkm8V6P8mJgK4RGkQAH8zf9AMF4MvmsmDDGuXo/edit#slide=id.g209c8662062_0_103
