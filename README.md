@@ -63,16 +63,18 @@ Unfortunately we were unable to locate any reference of the newer Intel GPU mode
 ---
 
 File Structure:
-* Code:
-    1: 01_get_subreddit_submissions.ipynb - Function to pull subreddit posts
-    2: 02_clean_observations.ipynb - Pushshift API Response Data Cleaning
-    3: 03_eda.ipynb - Exploratory Data Analysis and Visualization
-    4: 04_modeling.ipynb - Feature Engineering, Modeling and Conclusion
-    5: model_methods.py - Python file containing the different functions used to preprocess and model the data
-* data:
-    1: model_scores.csv - CSV file containing the scores for each model run during this project and the different versions
-* README.md - README
-* Executive_Summary.md - Executive Summary of the initiative sponsored by Intel
+```
+├── code
+│   ├── 01_get_subreddit_submissions.ipynb - Function to pull subreddit posts
+│   ├── 02_clean_observations.ipynb - Pushshift API Response Data Cleaning
+│   ├── 03_eda.ipynb - Exploratory Data Analysis and Visualization
+│   ├── 04_modeling.ipynb - Feature Engineering, Modeling and Conclusion
+│   ├── model_methods.py - Python file containing the different functions used to preprocess and model the data
+├── data
+│   ├── model_scores.csv - CSV file containing the scores for each model run during this project and the different versions
+├── README.md
+├── ExecutiveSummary.md
+```
 
 
 ---
